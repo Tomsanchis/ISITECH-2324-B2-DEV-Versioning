@@ -1,0 +1,3 @@
+Tâche 1: pour accéder au pull request, cliquer sur le boutton pull request (https://github.com/microsoft/vscode/commits/main)
+
+Tâche 2: Pour faire ceci, je clique sur le boutton New Pull Request, je peut la comparer, revoir le code puis par la suite valider cette PR
