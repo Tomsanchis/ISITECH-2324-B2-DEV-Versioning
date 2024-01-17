@@ -1,0 +1,11 @@
+Tâche 1 : pour cloner le repo j'ai utilisé la commande suivante : git clone https://github.com/microsoft/vscode
+
+Tâche 2 : je clique sur le boutton Commits (https://github.com/microsoft/vscode/commits/main) et je peut visualiser les commits et changer de branches si je le souhaite
+
+Tâche 3 : pour créer ma branche j'utilise la commande git checkout -b MaNouvelleBranche
+
+Quand j'ai modifié une partie du readme je fais les commandes suivantes :
+
+    - git add readme.md
+    - git commit -m "update readme"
+    - git push
