@@ -1,0 +1,3 @@
+Tâche 1: Pour accéder a l'historique des commits, il faut cliquer sur el boutton commits et Regarder avec des filtres ou directement avec la recherche
+
+Tâche 2: J'ai pu remarquer que le code était bien commenté pour poivoir suivre et comprendre le code plus facilement (quand on travaille en groupe par exemple)
