@@ -1,0 +1,3 @@
+Tâche 1: je crée mes deux branches avec la commande git branch NewBranche et fusionne avec git merge NomDeMaBranche
+
+Tâche 2: Si j'ai un soucis avec un confilt sur le merge, je vais directement pouvoir régler ce problème via VsCode
